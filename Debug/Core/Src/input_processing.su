@@ -1,0 +1,7 @@
+input_processing.c:31:7:update7SEG	16	static
+input_processing.c:66:7:setSwitch0	16	static
+input_processing.c:71:7:setTimer0	16	static
+input_processing.c:76:7:setBlink0	16	static
+input_processing.c:81:7:timer_run	8	static
+input_processing.c:114:7:update_7SEG_buffer	16	static
+input_processing.c:155:7:fsm_for_input_processing	8	static
